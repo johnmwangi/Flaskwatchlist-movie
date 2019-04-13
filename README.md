@@ -33,7 +33,7 @@ As a user:
 ## Cloning
 * In your terminal:
 
-        $ git clone:https://jonesmwas.herokuapp.com/
+        $ git clone: https://jonesmwas.herokuapp.com
 
 
 ## Testing the Application
