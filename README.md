@@ -1,6 +1,6 @@
 # Watchlist-Movie:
 
-## Author; John Mwangi
+## Built by; John Mwangi
 
 ### Date of Release
 
